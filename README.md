@@ -1,4 +1,4 @@
-# channelized-sync-wait-group
+# channelized-sync-wait-group [![.github/workflows/check.yml](https://github.com/moznion/channelized-sync-wait-group/actions/workflows/check.yml/badge.svg)](https://github.com/moznion/channelized-sync-wait-group/actions/workflows/check.yml) [![codecov](https://codecov.io/gh/moznion/channelized-sync-wait-group/branch/main/graph/badge.svg?token=KLX02F6M6Y)](https://codecov.io/gh/moznion/channelized-sync-wait-group)
 
 This tiny library wraps the [sync.WaitGroup](https://pkg.go.dev/sync#WaitGroup) and enables it to await by a channel.
 
